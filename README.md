@@ -1,1 +1,7 @@
 merida "la vida es una cancion"
+Nombre: Merida Inca Espinoza
+cel:961489471
+natural:Puquio
+Correo:meridaincaespinoza@gmail.com
+nacimiento:03 de setiembre
+tema:git
