@@ -127,6 +127,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		position: relative;
+		color: aqua;
 	}
 
 		.icon:before {
@@ -1081,5 +1082,6 @@ input, select, textarea {
 		} }
 .miimagen{
 	width: 500px;
-	border-radius: 999px;
+	border-radius: 
+	30px;
 }
